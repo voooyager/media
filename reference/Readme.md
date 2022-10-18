@@ -5,6 +5,7 @@
 
 视频渲染
 ===
+- [Android OpenGL ES 系列连载:纹理映射](https://zhuanlan.zhihu.com/p/115210823)
 - [Android OpenGL ES 系列连载:FBO 离屏渲染](https://zhuanlan.zhihu.com/p/115218923)
 - [Android OpenGl视频渲染](https://cloud.tencent.com/developer/article/1937917)
 - [openGL ES+MediaPlayer 渲染播放视频+滤镜效果](https://www.jianshu.com/p/13320a8549db?u_atoken=e6b8fc2c-8de4-48d4-a1e0-304fd1e91d32&u_asession=01Eo38rXHxHfpsJnLjRJGNfe--lmwcW4lagWsuR6h7LKr-Kbc6KilrOOHZdarAQY49X0KNBwm7Lovlpxjd_P_q4JsKWYrT3W_NKPr8w6oU7K_80YTtOoK2TBtP2TGX98Ojp0TkEaMSMNP4umocQhrjq2BkFo3NEHBv0PZUm6pbxQU&u_asig=05FUa9PccxevrEVu1QzwZNJ8Psy8HyO1z2xe46SorAeNFbf_IJngCE5SzwbvzzQ0aCXiTalY1mj3-FZ5CPaJcGIKBdF8bUougxRzAo6Ct1gkGJdAmaV_UjVJcfc3n1VvjA2O29ElLi3aOZ5qRuB9DgbionbxcLlQvlu0I-AQsl9Lz9JS7q8ZD7Xtz2Ly-b0kmuyAKRFSVJkkdwVUnyHAIJzS6emi2BvwBzZfK8wFlIOV2ghVBb7nMFxRXePJDzKeNYG3pf5vm7LeeSuJ_913VgsO3h9VXwMyh6PgyDIVSG1W_69Es7qAvo75yyFR27kBqRsqjFAv8ByJ7p9UKbpNTTn19fThQ0wMBnjYl9SZMZJdlgbNb_p_-fSfH0wlRGEUq7mWspDxyAEEo4kbsryBKb9Q&u_aref=VYA3S2AMDXk2eNedXpbVvn1CR2c%3D)
