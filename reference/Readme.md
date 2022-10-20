@@ -7,6 +7,7 @@
 视频渲染
 ===
 - [OpenGL ES and Shader幻灯片](https://slideplayer.com/slide/14879360/):+1:
+- [Understanding the graphics pipeline幻灯片](https://slideplayer.com/slide/3449358/):+1:
 - [OpenGL全流程详细解读](https://imgtec.eetrend.com/blog/2019/100045660.html):+1:
 - [openGL管线各环节细节](https://imgtec.eetrend.com/blog/2020/100047848.html):+1:
 - [OpenGL 理解VAO VBO 和 IBO](https://imgtec.eetrend.com/blog/2020/100049935.html)
