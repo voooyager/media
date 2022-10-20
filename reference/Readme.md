@@ -8,6 +8,7 @@
 ===
 - [OpenGL全流程详细解读](https://imgtec.eetrend.com/blog/2019/100045660.html):+1:
 - [openGL管线各环节细节](https://imgtec.eetrend.com/blog/2020/100047848.html):+1:
+- [OpenGL 理解VAO VBO 和 IBO](https://imgtec.eetrend.com/blog/2020/100049935.html)
 - [Android OpenGL ES 系列连载:纹理映射](https://zhuanlan.zhihu.com/p/115210823):+1:
 - [Android OpenGL ES 系列连载:FBO 离屏渲染](https://zhuanlan.zhihu.com/p/115218923):+1:
 - [OpenGL ES：Android平台EGL环境](https://www.jianshu.com/p/d5ff1ff4ee2a):+1:
