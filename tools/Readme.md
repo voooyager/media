@@ -1,9 +1,11 @@
 工具列表
 ===
-[搜索引擎]
+
+[搜索引擎]()
 ---
-- [幻灯片](https://slideplayer.com)
-- [书籍](https://zh.singlelogin.me/)
+- [Slides](https://slideplayer.com)
+- [Books](https://zh.singlelogin.me/)
+
 [视频编辑器](https://en.wikipedia.org/wiki/Category:Video_editing_software)
 ---
 1. [NLE](https://en.wikipedia.org/wiki/Non-linear_editing)
