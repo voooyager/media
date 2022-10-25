@@ -5,6 +5,8 @@
 ---
 - [Slides](https://slideplayer.com)
 - [Books](https://zh.singlelogin.me/)
+- [GitHub](https://github.com/)
+- [KDE](https://invent.kde.org/explore/groups?sort=name_asc)
 
 [视频编辑器](https://en.wikipedia.org/wiki/Category:Video_editing_software)
 ---
