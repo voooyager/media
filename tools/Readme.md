@@ -16,7 +16,8 @@
 [图像绘制器](https://en.wikipedia.org/wiki/Comparison_of_raster_graphics_editors)
 ---
 - [Krita](https://en.wikipedia.org/wiki/Krita)  <*Free*> <*OpenSource*> |
-  [Building Krita from Source](https://docs.krita.org/en/untranslatable_pages/building_krita.html#building-krita-from-source)
+  [Building Krita from Source](https://docs.krita.org/en/untranslatable_pages/building_krita.html#building-krita-from-source) |
+  [Krita for Android](https://krita.org/en/item/krita-5-1-0-released/)
 - [GIMP](https://en.wikipedia.org/wiki/GIMP) <*Free*> <*OpenSource*>
 - [MyPaint](https://en.wikipedia.org/wiki/MyPaint)
 - [Adobe Photoshop](https://en.wikipedia.org/wiki/Adobe_Photoshop)
