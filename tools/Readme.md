@@ -15,6 +15,13 @@
 - [Final Cut Pro](https://en.wikipedia.org/wiki/Final_Cut_Pro)
 - [Blender](https://en.wikipedia.org/wiki/Blender_(software)) <*Free*> <*OpenSource*>
 
+[图形调试器]()
+---
+- [RenderDoc](https://renderdoc.org/)
+```
+RenderDoc is a free MIT licensed stand-alone graphics debugger that allows quick and easy single-frame capture and detailed introspection of any application using Vulkan, D3D11, OpenGL & OpenGL ES or D3D12 across Windows 7 - 10, Linux, Android, Stadia, or Nintendo Switch™.
+```
+
 [图像绘制器](https://en.wikipedia.org/wiki/Comparison_of_raster_graphics_editors)
 ---
 - [Krita](https://en.wikipedia.org/wiki/Krita)  <*Free*> <*OpenSource*> |
@@ -23,6 +30,11 @@
 - [GIMP](https://en.wikipedia.org/wiki/GIMP) <*Free*> <*OpenSource*>
 - [MyPaint](https://en.wikipedia.org/wiki/MyPaint)
 - [Adobe Photoshop](https://en.wikipedia.org/wiki/Adobe_Photoshop)
+
+[游戏引擎]()
+---
+- [Unity](https://unity.com/)
+- [Unity手册](https://docs.unity3d.com/Manual/class-VideoPlayer.html)
 
 [UX设计工具]()
 ---
