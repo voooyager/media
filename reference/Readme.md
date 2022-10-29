@@ -6,6 +6,7 @@
 
 视频渲染
 ===
+- [Learn OpenGL](https://learnopengl-cn.readthedocs.io/zh/latest/):+1:
 - [OpenGL ES and Shader幻灯片](https://slideplayer.com/slide/14879360/):+1:
 - [Understanding the graphics pipeline幻灯片](https://slideplayer.com/slide/3449358/):+1:
 - [The rendering pipeline in detail What is OpenGL](https://slideplayer.com/slide/5771377/)
