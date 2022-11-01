@@ -32,3 +32,8 @@
 编/解码器
 ===
 - [MediaCodec编码OpenGL速度和清晰度均衡](https://juejin.cn/post/6844904015696756744)
+
+抠图
+==
+- [A journey of matting](https://zhuanlan.zhihu.com/p/27852081)
+- 
