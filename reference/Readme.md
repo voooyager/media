@@ -36,4 +36,4 @@
 抠图
 ==
 - [A journey of matting](https://zhuanlan.zhihu.com/p/27852081)
-- 
+- [Image matting——图像抠图入门篇](https://zhuanlan.zhihu.com/p/344325422)
