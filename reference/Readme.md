@@ -16,6 +16,10 @@
 ==
 - [Color space](https://en.wikipedia.org/wiki/Color_space)
 
+纹理
+==
+- [纹理压缩](https://en.wikipedia.org/wiki/Texture_compression)
+
 视频渲染
 ===
 - [OpenGl](https://www.khronos.org/opengl/wiki/):+1:
