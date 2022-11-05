@@ -28,6 +28,10 @@
 - [TEXTURE COMPRESSION TECHNIQUES](http://sv-journal.org/2014-1/06/en/index.php?lang=en)
 - [Compressed GPU texture formats](https://themaister.net/blog/2020/08/12/compressed-gpu-texture-formats-a-review-and-compute-shader-decoders-part-1/)
 
+着色器
+==
+- [The Book of Shaders](https://thebookofshaders.com/)
+
 视频渲染
 ===
 - [OpenGl](https://www.khronos.org/opengl/wiki/):+1:
