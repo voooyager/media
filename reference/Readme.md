@@ -19,6 +19,8 @@
 纹理
 ==
 - [纹理压缩](https://en.wikipedia.org/wiki/Texture_compression)
+- [TEXTURE COMPRESSION TECHNIQUES](http://sv-journal.org/2014-1/06/en/index.php?lang=en)
+- [Compressed GPU texture formats](https://themaister.net/blog/2020/08/12/compressed-gpu-texture-formats-a-review-and-compute-shader-decoders-part-1/)
 
 视频渲染
 ===
