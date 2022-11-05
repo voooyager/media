@@ -16,6 +16,12 @@
 ==
 - [Color space](https://en.wikipedia.org/wiki/Color_space)
 
+图形格式
+==
+- [How JPG Works](https://www.freecodecamp.org/news/how-jpg-works-a4dbd2316f35#.p7oto2nw1)
+- [How PNG Works](https://medium.com/@duhroach/how-png-works-f1174e3cc7b7#.84h8fi7d7)
+- [How WebP works ](https://medium.com/@duhroach/how-webp-works-lossly-mode-33bd2b1d0670#.q44inoo38)
+
 纹理
 ==
 - [纹理压缩](https://en.wikipedia.org/wiki/Texture_compression)
