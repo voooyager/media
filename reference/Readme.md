@@ -8,6 +8,7 @@
 - [Samples](https://github.com/toly1994328/Picture)
 - [Samples](https://juejin.cn/post/6844903761316413453)
 - [OpenGL for Android](https://zhuanlan.zhihu.com/p/103365274)
+- [OpenGL Skeletal Animation Tutorial](https://www.youtube.com/watch?v=cieheqt7eqc)
 
 分析工具
 ==
