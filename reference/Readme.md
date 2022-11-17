@@ -51,6 +51,7 @@
 - [Android OpenGL ES 系列连载:纹理映射](https://zhuanlan.zhihu.com/p/115210823):+1:
 - [Android OpenGL ES 系列连载:FBO 离屏渲染](https://zhuanlan.zhihu.com/p/115218923):+1:
 - [OpenGL ES：Android平台EGL环境](https://www.jianshu.com/p/d5ff1ff4ee2a):+1:
+- [MVP矩阵](https://mp.weixin.qq.com/s/AVyNmsO7s6rGPZw3WH5kcA)
 - [OpenGL ES EGL context](https://www.codersrc.com/archives/18351.html#%E4%BA%8C_EGL_%E7%BB%98%E5%88%B6%E6%B5%81%E7%A8%8B%E7%AE%80%E4%BB%8B)
 - [OpenGL ES 2.0 笔记](https://www.cnblogs.com/msnow/category/790636.html)
 - [OpenGL ES 3.0 笔记](https://www.cnblogs.com/msnow/category/790095.html)
