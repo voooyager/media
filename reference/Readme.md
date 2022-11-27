@@ -35,7 +35,7 @@
 ==
 - [The Book of Shaders](https://thebookofshaders.com/)
 - [Unity Shader基础：渲染管线到Shader结构](https://zhuanlan.zhihu.com/p/507523424)
-
+- [GLSL基础语法](https://zhuanlan.zhihu.com/p/349296191)
 
 视频渲染
 ===
