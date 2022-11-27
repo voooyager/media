@@ -7,6 +7,7 @@
 - [图形学系列笔记](https://sunocean.life/blog/tags/tag)
 - [Samples](https://github.com/toly1994328/Picture)
 - [Samples](https://juejin.cn/post/6844903761316413453)
+- [Samples](https://github.com/glumes/AndroidOpenGLTutorial)
 - [OpenGL for Android](https://zhuanlan.zhihu.com/p/103365274)
 - [OpenGL Skeletal Animation Tutorial](https://www.youtube.com/watch?v=cieheqt7eqc)
 
