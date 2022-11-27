@@ -8,3 +8,4 @@ OpenGl ES
 - [OpenGL® 4.5 Reference Pages](https://registry.khronos.org/OpenGL-Refpages/gl4/)
 
 - [learnopengl](https://learnopengl.com/Translations)
+- [Linux_kernel_and_OpenGL_video_games](https://zh.wikipedia.org/wiki/GLSL#/media/File:Linux_kernel_and_OpenGL_video_games.svg)
