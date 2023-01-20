@@ -20,6 +20,14 @@
 ==
 - [Color space](https://en.wikipedia.org/wiki/Color_space)
 
+分辨率
+==
+- [HD/FullHD/UHD](https://www.benq.com/en-ap/knowledge-center/knowledge/what-is-4k-uhd-full-hd.html)
+
+帧率
+==
+
+
 图形格式
 ==
 - [How JPG Works](https://www.freecodecamp.org/news/how-jpg-works-a4dbd2316f35#.p7oto2nw1)
