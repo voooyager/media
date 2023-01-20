@@ -23,6 +23,9 @@
 分辨率
 ==
 - [HD/FullHD/UHD](https://www.benq.com/en-ap/knowledge-center/knowledge/what-is-4k-uhd-full-hd.html)
+```
+```
+
 
 帧率
 ==
