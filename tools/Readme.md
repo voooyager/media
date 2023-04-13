@@ -7,6 +7,10 @@
 - [Books](https://zh.singlelogin.me/)
 - [GitHub](https://github.com/)
 - [KDE](https://invent.kde.org/explore/groups?sort=name_asc)
+- [知网](https://www.cnki.net/)
+- [IEEE Xplore](https://ieeexplore.ieee.org/Xplore/home.jsp)
+- [SPIE.DigitalLibrary](https://www.spiedigitallibrary.org)
+- [谷歌学术](scholar.google.com)
 
 [视频编辑器](https://en.wikipedia.org/wiki/Category:Video_editing_software)
 ---
